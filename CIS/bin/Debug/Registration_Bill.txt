@@ -1,0 +1,38 @@
+---------------------------------------------------------------------------------
+	                                    Lourdes Hospital 
+	                   Madhagondapalli,Krishnagiri (Dt), 635110
+---------------------------------------------------------------------------------
+                                        Registration Bill
+---------------------------------------------------------------------------------
+ Patient Id        : <PATIENTID>                        Bill No    : <REGBILLNO>
+ Patient Name   : <PATIENTNAME>                  Age        : <AGE>
+ Bill Date          : <REGBILLDATE>       Gender   : <GENDER>
+ Doctor             : <DOCTORNAME>                               Token No : <TOKENNO> 
+Corporate : <CORPORATENAME>         
+---------------------------------------------------------------------------------
+ Descr                                                      Amount            
+---------------------------------------------------------------------------------
+ <REGACCOUNTHEAD>                                    <REGCHARGES>
+---------------------------------------------------------------------------------
+ Bill Amount  : <TOTAL>                 Discount : <REGDISCOUNT>
+ Amount Paid : <REGAMOUNTPAID>                       Due : <REGDUE>
+---------------------------------------------------------------------------------
+					
+			                                                                                                               
+                                                                                 Signature:
+ <EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+ <EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>
+<EMPTY>

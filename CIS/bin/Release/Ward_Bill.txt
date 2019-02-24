@@ -1,0 +1,23 @@
+-------------------------------------------------
+		  Matha Pidha Hospital 
+	 Kovalam,Kanchipuram (Dt), 636007
+-------------------------------------------------
+                <BILLTYPE>
+-------------------------------------------------
+ Patient Id : <PATIENTID>         Bill No  : <WARDBILLNO>
+ Patient Name   : <PATIENTNAME>   Bill Date : <WARDBILLDATE>
+ Age   : <AGE>	                  Guardian Name : <GUARDIAN>
+ Gender : <GENDER>				  Corporate Name : <CORPORATENAME>
+ Admission Date : <ADMISSIONBILLDATE>	 Discharge Date : <DISCHARGEDATE>
+ Ward Details : <WARDDETAILS>
+ From Date : <FROMDATE>				 To Date : <TODATE>
+-------------------------------------------------
+ #   Descr		  QTY    Unit Price  Total          
+-------------------------------------------------
+ <DESHEAD>
+-------------------------------------------------
+ Bill Amount Rs:			       <TOTAL> 
+ Amount Paid : <WARDAMOUNTPAID>	  Due : <WARDDUE>
+ Concession : <WARDDISCOUNT>	Adv Adj : <WARDADVADJ>
+-------------------------------------------------
+ Date: <PAYDATE>  Time:<TIME> Signature:

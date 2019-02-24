@@ -1,0 +1,21 @@
+------------------------------------------------------------
+		  Matha Pidha Hospital 
+	 Kovalam,Kanchipuram (Dt), 636007
+------------------------------------------------------------
+                Investigation Bill
+------------------------------------------------------------
+ Patient Id   : <PATIENTID>        Bill No : <INVBILLNO>
+ Patient Name : <PATIENTNAME>                        Age : <AGE>
+ Bill Date    : <INVBILLDATE>	  Gender : <GENDER>
+ Doctor       : <DOCTORNAME>
+------------------------------------------------------------
+ Descr                                QTY   Unit Price  Total          
+------------------------------------------------------------
+<RPT_MLTI> <DESCR>   <QTY>   <UNITPRICE>  <AMOUNT>
+------------------------------------------------------------
+ 			           Bill Amount  : <TOTAL> 
+ 				    Amount Paid : <INVAMOUNTPAID>	  
+			 	            Due : <INVDUE>
+                                       Discount : <INVDISCOUNT>
+------------------------------------------------------------
+                                  Signature:

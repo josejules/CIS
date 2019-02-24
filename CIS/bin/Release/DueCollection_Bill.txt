@@ -1,0 +1,18 @@
+----------------------------------------------------
+		  Matha Pidha Hospital 
+	 Kovalam,Kanchipuram (Dt), 636007
+----------------------------------------------------
+                Receipt Collection
+----------------------------------------------------
+ Patient Id   : <PATIENTID>      Coll Date: <REGBILLDATE>
+ Patient Name : <PATIENTNAME>   
+----------------------------------------------------
+ Bill_No	Department	Bill_Amt  Cons  Amt_Paid   Due
+----------------------------------------------------
+ <COLLBILLNO> <COLLDEPARTMENT> <COLLBILLAMT> <COLLCONS> <COLLAMTPAID> <COLLDUE> 
+----------------------------------------------------
+ Bill Amount : <COLLTOTAL>        Cons : <COLLTOTALCONS>
+ Amount Paid : <COLLTOTALAMTPAID>    Due : <COLLTOTALDUE>
+----------------------------------------------------
+			
+				                      Signature:

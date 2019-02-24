@@ -1,0 +1,659 @@
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.exe.config
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.exe.manifest
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.application
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.exe
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.pdb
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.BusinessFacade.dll
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.Common.dll
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.DataAccess.dll
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.DBHandler.dll
+E:\DotNet Project\CIS\CIS\bin\Release\MySql.Data.dll
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.BusinessFacade.pdb
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.Common.pdb
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.DataAccess.pdb
+E:\DotNet Project\CIS\CIS\bin\Release\CIS.DBHandler.pdb
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+E:\DotNet Project\CIS\CIS\obj\x86\Release\RdlCompile.cache
+E:\DotNet Project\CIS\CIS\obj\x86\Release\RdlCompile.compiled
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.exe.manifest
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.application
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.exe
+E:\DotNet Project\CIS\CIS\obj\x86\Release\CIS.pdb
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.exe.config
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.exe
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.pdb
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.exe.manifest
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.application
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.exe
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.pdb
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.BusinessFacade.dll
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.Common.dll
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.DataAccess.dll
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.DBHandler.dll
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\MySql.Data.dll
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.BusinessFacade.pdb
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.Common.pdb
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.DataAccess.pdb
+E:\CIS Files\DotNet Project\CIS\CIS\bin\Release\CIS.DBHandler.pdb
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\RdlCompile.cache
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\RdlCompile.compiled
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.exe.manifest
+E:\CIS Files\DotNet Project\CIS\CIS\obj\x86\Release\CIS.application
+D:\Untitled\CIS\CIS\bin\Release\CIS.exe.config
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.pdb
+D:\Untitled\CIS\CIS\bin\Release\CIS.exe.manifest
+D:\Untitled\CIS\CIS\bin\Release\CIS.application
+D:\Untitled\CIS\CIS\bin\Release\CIS.exe
+D:\Untitled\CIS\CIS\bin\Release\CIS.pdb
+D:\Untitled\CIS\CIS\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS\CIS\bin\Release\CIS.Common.dll
+D:\Untitled\CIS\CIS\bin\Release\CIS.DataAccess.dll
+D:\Untitled\CIS\CIS\bin\Release\CIS.DBHandler.dll
+D:\Untitled\CIS\CIS\bin\Release\MySql.Data.dll
+D:\Untitled\CIS\CIS\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS\CIS\bin\Release\CIS.Common.pdb
+D:\Untitled\CIS\CIS\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\CIS\CIS\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmLoadLabData.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntry.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryReport.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryView.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmViewLabBillInfo.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.Master.frmCategory.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestField.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestFieldMapping.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.User.frmUser.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserMapping.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserRole.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisAdvanceCollection.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewAdvanceCollection.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewWardBill.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisWardBill.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+D:\Untitled\CIS\CIS\obj\x86\Release\RdlCompile.cache
+D:\Untitled\CIS\CIS\obj\x86\Release\RdlCompile.compiled
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.exe.manifest
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.application
+D:\Untitled\CIS\CIS\obj\x86\Release\CIS.exe
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.exe.config
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.exe.manifest
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.application
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.exe
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmLoadLabData.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntry.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryReport.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryView.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.frmViewLabBillInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.Master.frmCategory.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestField.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestFieldMapping.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.User.frmUser.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserMapping.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserRole.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisAdvanceCollection.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewAdvanceCollection.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewWardBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisWardBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\RdlCompile.cache
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\RdlCompile.compiled
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.exe.manifest
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.application
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.exe
+C:\CIS Project\Project\CIS_NEW\CIS\CIS\obj\x86\Release\CIS.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.exe.config
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.exe.manifest
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.application
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.exe
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.Common.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.DataAccess.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.DBHandler.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\MySql.Data.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.Common.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.frmLoadLabData.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntry.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryReport.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryView.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.frmViewLabBillInfo.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmCategory.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmPrinterSettings.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestField.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestFieldMapping.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUser.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserMapping.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserRole.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisAdvanceCollection.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAdvanceCollection.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisViewWardBill.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisWardBill.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\RdlCompile.cache
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\RdlCompile.compiled
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.exe.manifest
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.application
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.exe
+D:\Untitled\CIS_Build on 24-03-2018\CIS\obj\x86\Release\CIS.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.exe.config
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.exe.manifest
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.application
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.exe
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmLoadLabData.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntry.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryReport.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryView.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmViewLabBillInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmCategory.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmPrinterSettings.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestField.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestFieldMapping.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUser.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserMapping.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserRole.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisAdvanceCollection.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAdvanceCollection.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewWardBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisWardBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\RdlCompile.cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\RdlCompile.compiled
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.exe.manifest
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.application
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.exe
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS\obj\x86\Release\CIS.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.exe.config
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.exe
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.exe.manifest
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.application
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.exe
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.Common.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.DataAccess.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.DBHandler.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\MySql.Data.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.Common.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmLoadLabData.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntry.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryReport.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryView.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmViewLabBillInfo.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmCategory.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmPrinterSettings.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestField.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestFieldMapping.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUser.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserMapping.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserRole.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisAdvanceCollection.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAdvanceCollection.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewWardBill.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisWardBill.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\RdlCompile.cache
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\RdlCompile.compiled
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.exe.manifest
+D:\Untitled\CIS_Build on 27-04-2018\CIS\obj\x86\Release\CIS.application
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.exe.config
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.exe.manifest
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.application
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.exe
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmLoadLabData.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntry.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryReport.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryView.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmViewLabBillInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmCategory.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmPrinterSettings.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestField.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestFieldMapping.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUser.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserMapping.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserRole.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisAdvanceCollection.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAdvanceCollection.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewWardBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisWardBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\RdlCompile.cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\RdlCompile.compiled
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.exe.manifest
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.application
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.exe
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.exe.config
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.exe
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.exe.manifest
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.application
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.exe
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.Common.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.DataAccess.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.DBHandler.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\MySql.Data.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.Common.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.csprojResolveAssemblyReference.cache
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.BillTemplates.frmPrintReceipt.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmLoadLabData.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntry.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryReport.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmResultEntryView.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.frmViewLabBillInfo.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmCategory.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmPrinterSettings.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestField.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.Master.frmTestFieldMapping.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUser.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserMapping.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Laboratory.User.frmUserRole.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisAdvanceCollection.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAdvanceCollection.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisInventoryMovements.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisSettleAllDue.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewWardBill.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisWardBill.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Reports.frmReportViewer.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.frmLISLogin.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.HomePageCIS.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvCategory.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddInvList.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddItem.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddItemType.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddTax.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisAddVendor.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisInvestigationMaster.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cisPharmacyMaster.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.cis_account_head.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddCorporate.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.frmAddDepartment.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddDoctor.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddPatientType.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddAddressInfo.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmAddDefineRegFee.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmRoom.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewCorporate.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewDefineRegFee.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.frmViewDepartment.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewDoctor.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewPatientType.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Master.frmViewAddressInfo.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisCancelVisitAndBill.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisDischargePatient.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.CISPurchaseReceipt.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.CISRegAndInvoice.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisSearchPatient.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisTransferPatient.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewAndAdjustStockByItem.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.cisViewBillDetails.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.CISViewPurchaseReceipt.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Modules.CISViewRegAndInvoice.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.Properties.Resources.resources
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.csproj.GenerateResource.Cache
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\RdlCompile.cache
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\RdlCompile.compiled
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.exe.manifest
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS\obj\x86\Release\CIS.application

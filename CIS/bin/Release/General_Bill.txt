@@ -1,0 +1,21 @@
+-------------------------------------------------
+		  Matha Pidha Hospital 
+	 Kovalam,Kanchipuram (Dt), 636007
+-------------------------------------------------
+                General Bill
+-------------------------------------------------
+ Patient Id : <PATIENTID>         Bill No  : <GENBILLNO>
+ Patient Name   : <PATIENTNAME>   Bill Date : <GENBILLDATE>
+-------------------------------------------------
+#    Descr		QTY    Unit Price  Total          
+-------------------------------------------------
+<DESHEAD>
+-------------------------------------------------
+ Bill Amount Rs:			 <TOTAL> 
+ Amount Paid : <GENAMOUNTPAID>	  Due : <GENDUE>
+ Discount : <GENDISCOUNT>
+-------------------------------------------------
+            
+
+			                      Signature:
+								  

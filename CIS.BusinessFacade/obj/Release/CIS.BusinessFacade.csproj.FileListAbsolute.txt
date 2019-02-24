@@ -1,0 +1,240 @@
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+E:\DotNet Project\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+E:\DotNet Project\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+E:\CIS Files\DotNet Project\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\CIS\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+D:\Untitled\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 07-04-2018\CIS_Build on 07-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 06-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.dll
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\CIS.BusinessFacade.pdb
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\CIS.Common.dll
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\CIS.DataAccess.dll
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\CIS.DBHandler.dll
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\MySql.Data.dll
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\CIS.Common.pdb
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\CIS.DataAccess.pdb
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\bin\Release\CIS.DBHandler.pdb
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.dll
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.BusinessFacade\obj\Release\CIS.BusinessFacade.pdb

@@ -1,0 +1,12 @@
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\CIS.BusinessFacade.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\CIS.BusinessFacade.pdb
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\CIS.Common.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\CIS.DataAccess.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\CIS.DBHandler.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\MySql.Data.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\CIS.Common.pdb
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\CIS.DataAccess.pdb
+E:\DotNet Project\CIS\CIS.BusinessFacade\bin\Debug\CIS.DBHandler.pdb
+E:\DotNet Project\CIS\CIS.BusinessFacade\obj\Debug\CIS.BusinessFacade.csprojResolveAssemblyReference.cache
+E:\DotNet Project\CIS\CIS.BusinessFacade\obj\Debug\CIS.BusinessFacade.dll
+E:\DotNet Project\CIS\CIS.BusinessFacade\obj\Debug\CIS.BusinessFacade.pdb

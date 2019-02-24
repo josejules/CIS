@@ -1,0 +1,5 @@
+Patient Id  : <PATIENTID>    Guardian Name: <GUARDIANNAME>
+Patient Name   : <PATIENTNAME>     Phone : <PHONENO>
+Address : <ADDRESS>   		Age   : <AGE>
+Gender : <GENDER>
+Corporate : <CORPORATENAME>

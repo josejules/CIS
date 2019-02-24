@@ -1,0 +1,4 @@
+E:\DotNet Project\CIS\CIS.Common\bin\Debug\CIS.Common.dll
+E:\DotNet Project\CIS\CIS.Common\bin\Debug\CIS.Common.pdb
+E:\DotNet Project\CIS\CIS.Common\obj\Debug\CIS.Common.dll
+E:\DotNet Project\CIS\CIS.Common\obj\Debug\CIS.Common.pdb

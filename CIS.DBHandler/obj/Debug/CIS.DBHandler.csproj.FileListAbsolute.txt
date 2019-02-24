@@ -1,0 +1,7 @@
+E:\DotNet Project\CIS\CIS.DBHandler\bin\Debug\CIS.DBHandler.dll
+E:\DotNet Project\CIS\CIS.DBHandler\bin\Debug\CIS.DBHandler.pdb
+E:\DotNet Project\CIS\CIS.DBHandler\bin\Debug\CIS.Common.dll
+E:\DotNet Project\CIS\CIS.DBHandler\bin\Debug\CIS.Common.pdb
+E:\DotNet Project\CIS\CIS.DBHandler\obj\Debug\CIS.DBHandler.csprojResolveAssemblyReference.cache
+E:\DotNet Project\CIS\CIS.DBHandler\obj\Debug\CIS.DBHandler.dll
+E:\DotNet Project\CIS\CIS.DBHandler\obj\Debug\CIS.DBHandler.pdb

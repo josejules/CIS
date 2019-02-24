@@ -1,0 +1,88 @@
+E:\DotNet Project\CIS\CIS.Common\bin\x86\Debug\CIS.Common.dll
+E:\DotNet Project\CIS\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+E:\DotNet Project\CIS\CIS.Common\obj\x86\Debug\CIS.Common.dll
+E:\DotNet Project\CIS\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+E:\CIS Files\DotNet Project\CIS\CIS.Common\bin\x86\Debug\CIS.Common.dll
+E:\CIS Files\DotNet Project\CIS\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+E:\CIS Files\DotNet Project\CIS\CIS.Common\obj\x86\Debug\CIS.Common.dll
+E:\CIS Files\DotNet Project\CIS\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\DotNet Project\CIS\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\DotNet Project\CIS\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\DotNet Project\CIS\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\DotNet Project\CIS\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+D:\Untitled\CIS\CIS.Common\bin\x86\Debug\CIS.Common.dll
+D:\Untitled\CIS\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+D:\Untitled\CIS\CIS.Common\obj\x86\Debug\CIS.Common.dll
+D:\Untitled\CIS\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+D:\Untitled\CIS_Build on 24-03-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+D:\Untitled\CIS_Build on 24-03-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+D:\Untitled\CIS_Build on 27-04-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+D:\Untitled\CIS_Build on 27-04-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 29-04-2018\CIS_Build on 29-04-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+D:\Untitled\cis on may3\CIS_Build on 03-05-2018\CIS_Build on 29-04-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS_Build on 06-05-2018\CIS_Build on 29-04-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+D:\Untitled\Build on May 17\CIS_Build on 17-05-2018\CIS_Build on 17-05-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 26-05-2018\Build on May 26\CIS_Build on 26-05-2018\CIS_Build on 26-05-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+D:\Untitled\Source on 30th\CIS_Source on 30-05-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 16-06-2018\CIS Build on 16-06-2018\CIS_Source on 16-06-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 16-06-2018\CIS Build on 16-06-2018\CIS_Source on 16-06-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\CIS Build on 16-06-2018\CIS Build on 16-06-2018\CIS_Source on 16-06-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\CIS Build on 16-06-2018\CIS Build on 16-06-2018\CIS_Source on 16-06-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+D:\Untitled\CIS_Source on 23-06-2018\CIS_Source on 23-06-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-07-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 09-09-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 09-09-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 09-09-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 09-09-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 02-10-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 22-12-2018\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 17-01-2019\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 17-01-2019\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 17-01-2019\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 17-01-2019\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.Common\bin\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.Common\obj\x86\Debug\CIS.Common.dll
+C:\CIS Project\Project\CIS_NEW\Latest Source\CIS_Source on 18-01-2019\CIS.Common\obj\x86\Debug\CIS.Common.pdb
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.Common\bin\x86\Debug\CIS.Common.dll
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.Common\bin\x86\Debug\CIS.Common.pdb
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.Common\obj\x86\Debug\CIS.Common.dll
+D:\Untitled\cis source on feb 20\CIS_Source on 20-02-2019\CIS.Common\obj\x86\Debug\CIS.Common.pdb

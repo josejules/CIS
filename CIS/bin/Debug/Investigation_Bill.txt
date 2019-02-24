@@ -1,0 +1,22 @@
+------------------------------------------------------------
+		  Lourdes Hospital 
+	 Madhagondapalli,Krishnagiri (Dt), 635110
+------------------------------------------------------------
+                Investigation Bill
+------------------------------------------------------------
+ Patient Id   : <PATIENTID>        Bill No : <INVBILLNO>
+ Patient Name : <PATIENTNAME>                        Age : <AGE>
+ Bill Date    : <INVBILLDATE>	  Gender : <GENDER>
+ Doctor       : <DOCTORNAME>
+Corporate : <CORPORATENAME> 
+------------------------------------------------------------
+ Descr                                QTY   Unit Price  Total          
+------------------------------------------------------------
+<RPT_MLTI> <DESCR>   <QTY>   <UNITPRICE>  <AMOUNT>
+------------------------------------------------------------
+ 			           Bill Amount  : <TOTAL> 
+ 				    Amount Paid : <INVAMOUNTPAID>	  
+			 	            Due : <INVDUE>
+                                       Discount : <INVDISCOUNT>
+------------------------------------------------------------
+                                  Signature:

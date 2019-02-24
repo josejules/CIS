@@ -1,0 +1,35 @@
+-------------------------------------------------------------------------
+		  Matha Pidha Pharmacy
+	 Kovalam,Kanchipuram (Dt), 636007
+DL.No : 64/KPM/20          GSTIN : 33CKAPK0045F1ZU
+-------------------------------------------------------------------------
+                Pharmacy Bill
+-------------------------------------------------------------------------
+ Patient Id   : <PATIENTID>        Bill No : <PHABILLNO>
+ Patient Name : <PATIENTNAME>                        Age : <AGE>
+ Bill Date    : <PHABILLDATE>	  Gender : <GENDER>
+ Doctor       : <DOCTORNAME>
+Corporate : <CORPORATENAME> 
+-------------------------------------------------------------------------
+Type  Item Name	               Lot       Exp Date  QTY    Unit Price  Total          
+-------------------------------------------------------------------------
+<RPT_MLTI><ITEMTYPE><ITEMNAME><BATCHNO> <EXPDATE> <QTY>  <UNITPRIC> <AMOUNT>
+-------------------------------------------------------------------------
+                                                  Bill Amount : <TOTAL> 
+                                                  Amount Paid : <PHAAMOUNTPAID>
+                                                          Due : <PHADUE> 
+                                                     Discount : <PHADISCOUNT>
+-------------------------------------------------------------------------
+<RPT_DYN>Refunded Medicines
+<RPT_DYN>-------------------------------------------------------------------------
+<RPT_DYN>Type  Item Name	               Lot       Exp Date  QTY    Unit Price  Total      
+<RPT_DYN>-------------------------------------------------------------------------
+<RPT_MLTI1><ITEMTYPE><ITEMNAME><BATCHNO> <EXPDATE> <QTY>  <UNITPRIC> <AMOUNT>
+<RPT_DYN>-------------------------------------------------------------------------
+<RPT_DYN>                                       Refund Amount : <REFUNDAMOUNT> 
+
+			  
+			                         Signature:
+ 
+ 
+ 

@@ -1,0 +1,17 @@
+-------------------------------------------------
+		  Matha Pidha Hospital 
+	 Kovalam,Kanchipuram (Dt), 636007
+-------------------------------------------------
+            <ADVANCETRANSACTION>
+-------------------------------------------------
+ Patient Id No   : <PATIENTID>    Bill No  : <ADVBILLNO>
+ Patient Name   : <PATIENTNAME>   Bill Date : <ADVBILLDATE>
+ Age   : <AGE>	                  Gender : <GENDER>
+ Ward Details : <WARDDETAILS>
+-------------------------------------------------
+ Descr				           Amount            
+-------------------------------------------------
+ <ADVACCOUNTHEAD>           <ADVCHARGES>
+-------------------------------------------------
+
+		Signature:

@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------
+		  Matha Pidha Pharmacy
+	 Kovalam,Kanchipuram (Dt), 636007
+DL.No : 64/KPM/20          GSTIN : 33CKAPK0045F1ZU
+-------------------------------------------------------------------------
+                Due Collection Receipt
+-------------------------------------------------------------------------
+ Patient Id   : <PATIENTID>        Collection Date    : <COLLECTIONDATE>
+ Patient Name : <PATIENTNAME>      Gender : <GENDER>             
+-------------------------------------------------------------------------
+Bill#   Bill Date	  Bill Amt   Cons    Amt Paid    Due
+-------------------------------------------------------------------------
+<RPT_MLTI><BILLNO><BILLDATE><BILLAMT> <CONS> <AMTPAID>  <DUE>
+-------------------------------------------------------------------------
+										Bill Amount  : <TOTALAMT> 
+								  Amount Paid : <TOTALAMOUNTPAID>	  
+												Due : <TOTALDUE>
+                                       Cons : <TOTALDISCOUNT>
+------------------------------------------------------------
+Note : Payment is Inclusive of already paid
+			  
+			  
+			  
+			                         Signature:
+ 
+ 
+ 
