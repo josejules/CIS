@@ -220,5 +220,16 @@ namespace CIS.BusinessFacade
             return new clsLabDataAccess().DeletePrinterSetting(settingId);
         }
         #endregion
+
+        #region DischargeSummary
+        public DataTable GetDischargeSummary()
+        {
+            return new clsLabDataAccess().GetDischargeSummary();
+        }
+        public int SaveDischargeSummary(ComArugments args)
+        {
+            return new clsLabDataAccess().SaveDischargeSummary(args);
+        }
+        #endregion
     }
 }

@@ -285,6 +285,9 @@ namespace CIS
                 case "Referral":
                     showChildForms(new CIS.Master.frmViewReferral());
                     break;
+                case "Discharge Summary":
+                    showChildForms(new CIS.Laboratory.frmLoadLabData("DischargeSummary"));
+                    break;
                 default:
                     break;
             }

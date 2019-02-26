@@ -93,7 +93,7 @@
             this.tsbtnExit});
             this.toolStrip2.Location = new System.Drawing.Point(0, 0);
             this.toolStrip2.Name = "toolStrip2";
-            this.toolStrip2.Size = new System.Drawing.Size(784, 34);
+            this.toolStrip2.Size = new System.Drawing.Size(938, 34);
             this.toolStrip2.TabIndex = 0;
             this.toolStrip2.Text = "toolStrip2";
             // 
@@ -134,7 +134,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(784, 95);
+            this.panel1.Size = new System.Drawing.Size(938, 95);
             this.panel1.TabIndex = 5;
             // 
             // panel3
@@ -145,7 +145,7 @@
             this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel3.Location = new System.Drawing.Point(0, 34);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(784, 67);
+            this.panel3.Size = new System.Drawing.Size(938, 67);
             this.panel3.TabIndex = 1;
             // 
             // lblPlace
@@ -187,7 +187,7 @@
             this.tslblUserId});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(784, 67);
+            this.toolStrip1.Size = new System.Drawing.Size(938, 67);
             this.toolStrip1.TabIndex = 1;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -219,18 +219,18 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(784, 34);
+            this.panel2.Size = new System.Drawing.Size(938, 34);
             this.panel2.TabIndex = 0;
             // 
             // t
             // 
             this.t.AutoSize = true;
             this.t.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.t.Font = new System.Drawing.Font("AR CARTER", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.t.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.t.ForeColor = System.Drawing.Color.DimGray;
             this.t.Location = new System.Drawing.Point(569, 4);
             this.t.Name = "t";
-            this.t.Size = new System.Drawing.Size(211, 34);
+            this.t.Size = new System.Drawing.Size(298, 25);
             this.t.TabIndex = 2;
             this.t.Text = "Clinical Information System";
             this.t.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -242,7 +242,7 @@
             this.tsInvoiceActivities.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.tsInvoiceActivities.Location = new System.Drawing.Point(0, 0);
             this.tsInvoiceActivities.Name = "tsInvoiceActivities";
-            this.tsInvoiceActivities.Size = new System.Drawing.Size(200, 25);
+            this.tsInvoiceActivities.Size = new System.Drawing.Size(193, 25);
             this.tsInvoiceActivities.TabIndex = 10;
             // 
             // panel4
@@ -252,7 +252,7 @@
             this.panel4.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel4.Location = new System.Drawing.Point(0, 95);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(200, 396);
+            this.panel4.Size = new System.Drawing.Size(193, 439);
             this.panel4.TabIndex = 7;
             // 
             // panel6
@@ -272,7 +272,7 @@
             this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel6.Location = new System.Drawing.Point(0, 30);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(200, 366);
+            this.panel6.Size = new System.Drawing.Size(193, 409);
             this.panel6.TabIndex = 11;
             // 
             // tsAdminActivites
@@ -281,7 +281,7 @@
             this.tsAdminActivites.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.tsAdminActivites.Location = new System.Drawing.Point(0, 275);
             this.tsAdminActivites.Name = "tsAdminActivites";
-            this.tsAdminActivites.Size = new System.Drawing.Size(200, 25);
+            this.tsAdminActivites.Size = new System.Drawing.Size(193, 25);
             this.tsAdminActivites.TabIndex = 27;
             this.tsAdminActivites.Text = "toolStrip4";
             // 
@@ -292,8 +292,8 @@
             this.toolStripButton4});
             this.tsAdmin.Location = new System.Drawing.Point(0, 245);
             this.tsAdmin.Name = "tsAdmin";
-            this.tsAdmin.Size = new System.Drawing.Size(200, 30);
-            this.tsAdmin.TabIndex = 28;
+            this.tsAdmin.Size = new System.Drawing.Size(193, 30);
+            this.tsAdmin.TabIndex = 35;
             this.tsAdmin.Text = "toolStrip5";
             this.tsAdmin.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.tsAdmin_ItemClicked);
             // 
@@ -314,7 +314,7 @@
             this.tsBillingActivities.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.tsBillingActivities.Location = new System.Drawing.Point(0, 220);
             this.tsBillingActivities.Name = "tsBillingActivities";
-            this.tsBillingActivities.Size = new System.Drawing.Size(200, 25);
+            this.tsBillingActivities.Size = new System.Drawing.Size(193, 25);
             this.tsBillingActivities.TabIndex = 25;
             this.tsBillingActivities.Text = "toolStrip4";
             // 
@@ -325,7 +325,7 @@
             this.tsbAdmin});
             this.tspBiling.Location = new System.Drawing.Point(0, 190);
             this.tspBiling.Name = "tspBiling";
-            this.tspBiling.Size = new System.Drawing.Size(200, 30);
+            this.tspBiling.Size = new System.Drawing.Size(193, 30);
             this.tspBiling.TabIndex = 26;
             this.tspBiling.Text = "toolStrip5";
             this.tspBiling.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.tspBiling_ItemClicked);
@@ -347,7 +347,7 @@
             this.tsPharmacyActivities.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.tsPharmacyActivities.Location = new System.Drawing.Point(0, 165);
             this.tsPharmacyActivities.Name = "tsPharmacyActivities";
-            this.tsPharmacyActivities.Size = new System.Drawing.Size(200, 25);
+            this.tsPharmacyActivities.Size = new System.Drawing.Size(193, 25);
             this.tsPharmacyActivities.TabIndex = 24;
             this.tsPharmacyActivities.Text = "toolStrip4";
             // 
@@ -358,7 +358,7 @@
             this.toolStripButton2});
             this.tsPharmacy.Location = new System.Drawing.Point(0, 135);
             this.tsPharmacy.Name = "tsPharmacy";
-            this.tsPharmacy.Size = new System.Drawing.Size(200, 30);
+            this.tsPharmacy.Size = new System.Drawing.Size(193, 30);
             this.tsPharmacy.TabIndex = 23;
             this.tsPharmacy.Text = "toolStrip5";
             this.tsPharmacy.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.tsPharmacy_ItemClicked);
@@ -380,7 +380,7 @@
             this.tsInvestigationActivites.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.tsInvestigationActivites.Location = new System.Drawing.Point(0, 110);
             this.tsInvestigationActivites.Name = "tsInvestigationActivites";
-            this.tsInvestigationActivites.Size = new System.Drawing.Size(200, 25);
+            this.tsInvestigationActivites.Size = new System.Drawing.Size(193, 25);
             this.tsInvestigationActivites.TabIndex = 22;
             this.tsInvestigationActivites.Text = "toolStrip4";
             // 
@@ -391,7 +391,7 @@
             this.toolStripButton3});
             this.tspInvestigation.Location = new System.Drawing.Point(0, 80);
             this.tspInvestigation.Name = "tspInvestigation";
-            this.tspInvestigation.Size = new System.Drawing.Size(200, 30);
+            this.tspInvestigation.Size = new System.Drawing.Size(193, 30);
             this.tspInvestigation.TabIndex = 21;
             this.tspInvestigation.Text = "toolStrip5";
             this.tspInvestigation.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.tspInvestigation_ItemClicked);
@@ -413,7 +413,7 @@
             this.tsRegistrationActivities.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.tsRegistrationActivities.Location = new System.Drawing.Point(0, 55);
             this.tsRegistrationActivities.Name = "tsRegistrationActivities";
-            this.tsRegistrationActivities.Size = new System.Drawing.Size(200, 25);
+            this.tsRegistrationActivities.Size = new System.Drawing.Size(193, 25);
             this.tsRegistrationActivities.TabIndex = 16;
             // 
             // tspRegistration
@@ -423,7 +423,7 @@
             this.toolStripButton1});
             this.tspRegistration.Location = new System.Drawing.Point(0, 25);
             this.tspRegistration.Name = "tspRegistration";
-            this.tspRegistration.Size = new System.Drawing.Size(200, 30);
+            this.tspRegistration.Size = new System.Drawing.Size(193, 30);
             this.tspRegistration.TabIndex = 15;
             this.tspRegistration.Text = "toolStrip5";
             this.tspRegistration.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.tspRegistration_ItemClicked);
@@ -446,7 +446,7 @@
             this.tsbInvoiceReports});
             this.tspInvoice.Location = new System.Drawing.Point(0, 0);
             this.tspInvoice.Name = "tspInvoice";
-            this.tspInvoice.Size = new System.Drawing.Size(200, 30);
+            this.tspInvoice.Size = new System.Drawing.Size(193, 30);
             this.tspInvoice.TabIndex = 4;
             this.tspInvoice.Text = "toolStrip3";
             this.tspInvoice.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.tspInvoice_ItemClicked);
@@ -467,7 +467,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(784, 491);
+            this.ClientSize = new System.Drawing.Size(938, 534);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel1);
             this.IsMdiContainer = true;

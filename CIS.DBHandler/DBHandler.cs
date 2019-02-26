@@ -203,5 +203,39 @@ namespace CIS.DBHandler
                 CloseConnection();
             }
         }
+
+        #region StoredProcedure
+        MySqlCommand dbCommand;
+        public DataSet ExecuteDateSet(string storedProcedure, List<MySqlParameter> ParameterCol)
+        {
+            DataSet ds = new DataSet();
+            MySqlDataAdapter adapter = null;
+            try
+            {
+                Openconnection();
+                MySqlCommand cmd = new MySqlCommand(storedProcedure, conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                foreach (var param in ParameterCol)
+                {
+                    cmd.Parameters.Add(param);
+                    //if (param.Direction == ParameterDirection.Input)
+                    //    cmd.Parameters[string.Format("{0}{1}", "", param.ParameterName)].Value = param.Value;
+                    //else
+                    //    cmd.Parameters[string.Format("{0}{1}", "", param.ParameterName)].Direction = ParameterDirection.Output;
+                }
+                adapter = new MySqlDataAdapter(cmd);
+                adapter.Fill(ds);
+            }
+            catch (MySqlException ex)
+            {
+                throw;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+            return ds;
+        }
+        #endregion
     }
 }

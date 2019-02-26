@@ -107,6 +107,12 @@
     <Compile Include="BillTemplates\frmPrintReceipt.Designer.cs">
       <DependentUpon>frmPrintReceipt.cs</DependentUpon>
     </Compile>
+    <Compile Include="DischargeSummary\frmDischargeSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DischargeSummary\frmDischargeSummary.Designer.cs">
+      <DependentUpon>frmDischargeSummary.cs</DependentUpon>
+    </Compile>
     <Compile Include="Laboratory\frmLoadLabData.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -480,6 +486,9 @@
     <EmbeddedResource Include="BillTemplates\frmPrintReceipt.resx">
       <DependentUpon>frmPrintReceipt.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="DischargeSummary\frmDischargeSummary.resx">
+      <DependentUpon>frmDischargeSummary.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Laboratory\frmLoadLabData.resx">
       <DependentUpon>frmLoadLabData.cs</DependentUpon>
     </EmbeddedResource>
@@ -771,6 +780,7 @@
     <Content Include="Images\SearchI.png" />
     <Content Include="Images\title-background.jpg" />
     <Content Include="Images\View.png" />
+    <None Include="Resources\BackgroundImage.png" />
     <None Include="Resources\logo.ico" />
     <None Include="Resources\Print.png" />
     <None Include="Resources\save.bmp" />

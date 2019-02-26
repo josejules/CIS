@@ -59,6 +59,9 @@ namespace CIS.Laboratory
                 case "PrinterSetting":
                     dtSource = objLabBusiness.LoadPrinterSetting();
                     break;
+                case "DischargeSummary":
+                    dtSource = objLabBusiness.GetDischargeSummary();
+                    break;
             }
 
             //DataColumn column1 = new DataColumn();
@@ -105,6 +108,9 @@ namespace CIS.Laboratory
                     break;
                 case "PrinterSetting":
                     new CIS.Master.frmPrinterSettings().ShowDialog();
+                    break;
+                case "DischargeSummary":
+                    new CIS.DischargeSummary.frmDischargeSummary().ShowDialog();
                     break;
             }
         }

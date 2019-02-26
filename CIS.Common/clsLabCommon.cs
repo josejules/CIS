@@ -78,6 +78,36 @@ namespace CIS.Common
         }
     }
 
+    public class DischargeSummary
+    {
+        public const string DischargeSummaryId = "discharge_summary_id";
+        public const string DischargeSummaryNumber = "discharge_summary_number";
+        public const string DischargeSummaryDate = "discharge_summary_date";
+        public const string PatientId = "patient_id";
+        public const string VisitNumber = "visit_number";
+        public const string DischargeDoctorId = "discharge_doctor_id";
+        public const string DischargeDate = "discharge_date";
+        public const string Diagnosis = "diagnosis";
+        public const string OperativeFindings = "operative_findings";
+
+        public const string Procedure = "procedure";
+        public const string Summary = "summary";
+        public const string ConditionAtAdmission = "condition_at_admission";
+        public const string Investigations = "investigations";
+        public const string TreatmentGiven = "treatment_given";
+        public const string ConditionAtDischarge = "condition_at_discharge";
+        public const string TreatmentAdviced = "treatment_adviced";
+        public const string ReviewOn = "review_on";
+        public const string FollowupDetailId = "followup_detail_id";
+        public const string DoctorId = "doctor_id";
+        public const string VisitingDate = "visiting_date";
+        public const string Remarks = "remarks";
+
+        public const string LastUpdatedUser = "last_updated_user";
+        public const string LastUpdated = "last_updated";
+        public const string IsDeleted = "is_deleted";
+    }
+
     public class Master
     {
         public class PrinterSettings

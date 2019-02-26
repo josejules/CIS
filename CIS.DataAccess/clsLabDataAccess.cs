@@ -5,6 +5,7 @@ using System.Text;
 using System.Data;
 using CIS.DBHandler;
 using CIS.Common;
+using MySql.Data.MySqlClient;
 
 namespace CIS.DataAccess
 {
@@ -514,6 +515,104 @@ namespace CIS.DataAccess
         {
             query = @"DELETE FROM printer_settings where setting_id = " + settingId;
             return objDBHandler.ExecuteCommand(query); ;
+        }
+        #endregion
+
+        #region DischargeSummary
+        public DataTable GetDischargeSummary()
+        {
+            List<MySqlParameter> listparameter = new List<MySqlParameter>();
+            DataSet ds = objDBHandler.ExecuteDateSet("sp_GetDischargeSummary", listparameter);
+            return ds.Tables[0];
+        }
+        public int SaveDischargeSummary(ComArugments args)
+        {
+            int dischargesummaryid = Convert.ToInt32(args.ParamList[CIS.Common.DischargeSummary.DischargeSummaryId].ToString());
+            string discharegesummaryNo = args.ParamList[CIS.Common.DischargeSummary.DischargeSummaryNumber].ToString();
+            string patient_id = args.ParamList[CIS.Common.DischargeSummary.PatientId].ToString();
+            string visit_no = args.ParamList[CIS.Common.DischargeSummary.VisitNumber].ToString();
+            int doctor_id = Convert.ToInt32(args.ParamList[CIS.Common.DischargeSummary.DischargeDoctorId].ToString());
+            DateTime discharge_date = DateTime.Now;//Convert.ToDateTime( args.ParamList[CIS.Common.DischargeSummary.DischargeDate].ToString());
+            string diagnosis = args.ParamList[CIS.Common.DischargeSummary.Diagnosis].ToString();
+            string operative_findings = args.ParamList[CIS.Common.DischargeSummary.OperativeFindings].ToString();
+            string procedure = args.ParamList[CIS.Common.DischargeSummary.Procedure].ToString();
+            string summary = args.ParamList[CIS.Common.DischargeSummary.Summary].ToString();
+            string conditionAtAdmisson = args.ParamList[CIS.Common.DischargeSummary.ConditionAtAdmission].ToString();
+            string investigation = args.ParamList[CIS.Common.DischargeSummary.Investigations].ToString();
+            string treatmentGiven = args.ParamList[CIS.Common.DischargeSummary.TreatmentGiven].ToString();
+            string conditionAtDischarge = args.ParamList[CIS.Common.DischargeSummary.ConditionAtDischarge].ToString();
+            string treatmentAdviced = args.ParamList[CIS.Common.DischargeSummary.TreatmentAdviced].ToString();
+            string reviewon = args.ParamList[CIS.Common.DischargeSummary.ReviewOn].ToString();
+            int lastUpdatedUser = Convert.ToInt32(args.ParamList[CIS.Common.DischargeSummary.LastUpdatedUser].ToString());
+
+            List<MySqlParameter> listparameter = new List<MySqlParameter>();
+            MySqlParameter param = new MySqlParameter("DischargeSummaryId", MySqlDbType.Int32);
+            param.Value = dischargesummaryid;
+            param.Direction = ParameterDirection.Input;
+            listparameter.Add(param);
+
+            MySqlParameter param1 = new MySqlParameter("DischargeSummaryNumber", MySqlDbType.VarChar, 45);
+            param1.Value = discharegesummaryNo;
+            listparameter.Add(param1);
+
+            MySqlParameter param2 = new MySqlParameter("PatientId", MySqlDbType.VarChar, 45);
+            param2.Value = patient_id;
+            listparameter.Add(param2);
+
+            MySqlParameter param3 = new MySqlParameter("VisitNumber", MySqlDbType.VarChar, 45);
+            param3.Value = visit_no;
+            listparameter.Add(param3);
+
+            MySqlParameter param4 = new MySqlParameter("DischargeDoctorId", MySqlDbType.Int32);
+            param4.Value = doctor_id;
+            listparameter.Add(param4);
+
+            MySqlParameter param5 = new MySqlParameter("Diagnosis", MySqlDbType.String);
+            param5.Value = diagnosis;
+            listparameter.Add(param5);
+
+            MySqlParameter param6 = new MySqlParameter("OperativeFindings", MySqlDbType.String);
+            param6.Value = operative_findings;
+            listparameter.Add(param6);
+
+            MySqlParameter param7 = new MySqlParameter("Procedure1", MySqlDbType.String);
+            param7.Value = procedure;
+            listparameter.Add(param7);
+
+            MySqlParameter param8 = new MySqlParameter("Summary", MySqlDbType.String);
+            param8.Value = procedure;
+            listparameter.Add(param8);
+
+            MySqlParameter param9 = new MySqlParameter("ConditionAtAdmission", MySqlDbType.String);
+            param9.Value = conditionAtAdmisson;
+            listparameter.Add(param9);
+
+            MySqlParameter param10 = new MySqlParameter("Investigations", MySqlDbType.String);
+            param10.Value = investigation;
+            listparameter.Add(param10);
+
+            MySqlParameter param11 = new MySqlParameter("TreatmentGiven", MySqlDbType.String);
+            param11.Value = treatmentGiven;
+            listparameter.Add(param11);
+
+            MySqlParameter param12 = new MySqlParameter("ConditionAtDischarge", MySqlDbType.String);
+            param12.Value = conditionAtDischarge;
+            listparameter.Add(param12);
+
+            MySqlParameter param13 = new MySqlParameter("TreatmentAdviced", MySqlDbType.String);
+            param13.Value = treatmentAdviced;
+            listparameter.Add(param13);
+
+            MySqlParameter param14 = new MySqlParameter("ReviewOn", MySqlDbType.String);
+            param14.Value = reviewon;
+            listparameter.Add(param14);
+
+            MySqlParameter param15 = new MySqlParameter("LastUpdatedUser", MySqlDbType.String);
+            param15.Value = lastUpdatedUser;
+            listparameter.Add(param15);
+
+            DataSet ds = objDBHandler.ExecuteDateSet("sp_InsertUpdateDischargeSummary", listparameter);
+            return Convert.ToInt32(ds.Tables[0].Rows[0][0].ToString());
         }
         #endregion
     }

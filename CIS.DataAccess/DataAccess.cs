@@ -984,7 +984,7 @@ namespace CIS.DataAccess
                         address,
                         phone_no,
                         last_visit_number,
-                        pvi.doctor_id,
+                        pvi.doctor_id,pvi.doctor_name,
                         last_visit_type,
                         if(last_visit_type = 1, 'OP', 'IP') AS visit_type,
                         date_format(pvi.visit_date, '%d/%m/%Y %h:%i %p') as visit_date,
