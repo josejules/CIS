@@ -40,6 +40,9 @@ namespace CIS.Laboratory
             }
         }
 
+        /// <summary>
+        /// Load Data
+        /// </summary>
         public void LoadData()
         {
             switch (activity)
