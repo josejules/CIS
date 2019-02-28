@@ -330,7 +330,7 @@ namespace CIS.BillTemplates
                             RowColAlign(dt.Rows[0]["bill_number"].ToString(), 17, false));
                         ReceiptLine = ReceiptLine.Replace("<INVBILLDATE>",
                             RowColAlign(dt.Rows[0]["bill_date"].ToString(), 19, false));
-                        ReceiptLine = ReceiptLine.Replace("<PATIENTNAME>", dt.Rows[0]["patient_name"].ToString());
+                        ReceiptLine = ReceiptLine.Replace("<PATIENTNAME>",  RowColAlign(dt.Rows[0]["patient_name"].ToString(), 25, false));
                         ReceiptLine = ReceiptLine.Replace("<AGE>", dt.Rows[0]["age"].ToString());
                         ReceiptLine = ReceiptLine.Replace("<GENDER>", dt.Rows[0]["gender"].ToString());
                         ReceiptLine = ReceiptLine.Replace("<DOCTORNAME>", dt.Rows[0]["doctor_name"].ToString());
@@ -1486,6 +1486,11 @@ namespace CIS.BillTemplates
         private void btnClose_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void frmPrintReceipt_Load(object sender, EventArgs e)
+        {
+
         }
     }
 

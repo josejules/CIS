@@ -148,8 +148,9 @@ namespace CIS.Master
                                 break;
                         }
                     }
-                    ClearControls();
+                    //ClearControls();
                 }
+                ClearControls();
             }
             catch (Exception ex)
             {

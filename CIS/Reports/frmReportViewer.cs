@@ -461,10 +461,10 @@ namespace CIS.Reports
                 dtCorptSource = objBusinessFacade.loadInvestigationDepartment();
                 if (dtCorptSource != null && dtCorptSource.Rows.Count > 0)
                 {
-                    //DataRow row = dtCorptSource.NewRow();
-                    //row[0] = 0;
-                    //row[1] = "";
-                    //dtCorptSource.Rows.InsertAt(row, 0);
+                    DataRow row = dtCorptSource.NewRow();
+                    row[0] = 0;
+                    row[1] = "";
+                    dtCorptSource.Rows.InsertAt(row, 0);
                     cboCorporate.ValueMember = "DEPARTMENT_ID";
                     cboCorporate.DisplayMember = "DEPARTMENT_NAME";
                     cboCorporate.DataSource = dtCorptSource;

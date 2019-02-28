@@ -74,6 +74,7 @@ namespace CIS.Modules
             lblcCancelledDate.Text = DateTime.Now.ToString("dd/MM/yyyy hh:mm tt");
             cboPaymentMode.SelectedIndex = 0;
             cboSocialTitle.SelectedIndex = -1;
+            cboClinicalType.SelectedValue = 16; //General Medicine By Default
 
             dtSource = null;
             dtSource = objBusinessFacade.getUserRoleId(Common.Common.userId);
@@ -692,6 +693,7 @@ namespace CIS.Modules
                 multitxtAddressInv.Text = dtSource.Rows[0]["address"].ToString();
                 lblVisitNumberInv.Text = dtSource.Rows[0]["last_visit_number"].ToString();
                 lblVisitTypeInv.Text = dtSource.Rows[0]["visit_type"].ToString();
+                lblCorporateName.Text = dtSource.Rows[0]["corporate_name"].ToString();
                 cboDoctorInv.SelectedValue = Convert.ToInt32(dtSource.Rows[0]["doctor_id"].ToString());
                 txtPatientNameInv.Enabled = false;
                 cboGenderInv.Enabled = false;
@@ -2546,10 +2548,26 @@ namespace CIS.Modules
 
             lblRegNetTotal.Text = Convert.ToString(Common.Common.module_visit_info.netTotalReg);
             lblRegistrationAmount.Text = Convert.ToString(Common.Common.module_visit_info.netTotalReg);
-            txtRegAmountPaid.Text = Convert.ToString(Common.Common.module_visit_info.netTotalReg);
-            Common.Common.module_visit_info.amountPaidReg = Convert.ToDecimal(txtRegAmountPaid.Text.ToString());
-            Common.Common.module_visit_info.balanceAmountReg = (Common.Common.module_visit_info.netTotalReg - Common.Common.module_visit_info.amountPaidReg);
-            lblRegBalance.Text = Convert.ToString(Common.Common.module_visit_info.balanceAmountReg);
+            //txtRegAmountPaid.Text = Convert.ToString(Common.Common.module_visit_info.netTotalReg);
+            //Common.Common.module_visit_info.amountPaidReg = Convert.ToDecimal(txtRegAmountPaid.Text.ToString());
+            //Common.Common.module_visit_info.balanceAmountReg = (Common.Common.module_visit_info.netTotalReg - Common.Common.module_visit_info.amountPaidReg);
+            //lblRegBalance.Text = Convert.ToString(Common.Common.module_visit_info.balanceAmountReg);
+
+            if (cboCorporate.SelectedIndex > 0)//By default corporate should be in due
+            {
+                txtRegAmountPaid.Text = "0.00";
+                Common.Common.module_visit_info.amountPaidReg = Convert.ToDecimal(txtRegAmountPaid.Text.ToString());
+                Common.Common.module_visit_info.balanceAmountReg = (Common.Common.module_visit_info.netTotalReg - Common.Common.module_visit_info.amountPaidReg);
+                lblRegBalance.Text = Convert.ToString(Common.Common.module_visit_info.balanceAmountReg);
+            }
+            else
+            {
+                txtRegAmountPaid.Text = Convert.ToString(Common.Common.module_visit_info.netTotalReg);
+                Common.Common.module_visit_info.amountPaidReg = Convert.ToDecimal(txtRegAmountPaid.Text.ToString());
+                Common.Common.module_visit_info.balanceAmountReg = (Common.Common.module_visit_info.netTotalReg - Common.Common.module_visit_info.amountPaidReg);
+                lblRegBalance.Text = Convert.ToString(Common.Common.module_visit_info.balanceAmountReg);
+            }
+
             calculateGrandTotal();
         }
 
@@ -3377,6 +3395,7 @@ namespace CIS.Modules
             cboAddress1.SelectedIndex = -1;
             cboGender.Enabled = true;
             cboReferredBy.SelectedIndex = - 1;
+            cboClinicalType.SelectedValue = 16; //General Medicine By Default
 
             Common.Common.cis_patient_info.social_title_id = 0;
             Common.Common.cis_patient_info.social_title = string.Empty;
@@ -3418,9 +3437,19 @@ namespace CIS.Modules
             }
 
             lblInvestigationTotalAmt.Text = Common.Common.cis_investigation_info.investigationTotalSum.ToString("0.00"); //Display Total Sum
-            txtAmtPaidInvestigation.Text = Common.Common.cis_investigation_info.investigationTotalSum.ToString("0.00");
+
+            if (!string.IsNullOrEmpty(lblCorporateName.Text.ToString()))//By default corporate should be in due
+            {
+                txtAmtPaidInvestigation.Text = "0.00";
+                lblDueInvestigation.Text = Common.Common.cis_investigation_info.investigationTotalSum.ToString("0.00");
+            }
+            else
+            {
+                txtAmtPaidInvestigation.Text = Common.Common.cis_investigation_info.investigationTotalSum.ToString("0.00");
+                lblDueInvestigation.Text = "0.00";
+            }
+
             txtDiscountInvestigation.Text = "0.00";
-            lblDueInvestigation.Text = "0.00";
             calculateGrandTotal();
         }
 
@@ -3434,10 +3463,21 @@ namespace CIS.Modules
                 Common.Common.cis_billing.genTotalSum = Common.Common.cis_billing.genTotalSum + sum;
             }
 
+            if (!string.IsNullOrEmpty(lblCorporateName.Text.ToString()))//By default corporate should be in due
+            {
+                txtGenAmtPaid.Text = "0.00";
+                lblGenDueAmt.Text = Common.Common.cis_billing.genTotalSum.ToString("0.00");
+            }
+            else
+            {
+                txtGenAmtPaid.Text = Common.Common.cis_billing.genTotalSum.ToString("0.00");
+                lblGenDueAmt.Text = "0.00";
+            }
+
             lblGenTotalNetAmt.Text = Common.Common.cis_billing.genTotalSum.ToString("0.00"); //Display Total Sum
-            txtGenAmtPaid.Text = Common.Common.cis_billing.genTotalSum.ToString("0.00");
+            //txtGenAmtPaid.Text = Common.Common.cis_billing.genTotalSum.ToString("0.00");
             txtGenDiscount.Text = "0.00";
-            lblGenDueAmt.Text = "0.00";
+            //lblGenDueAmt.Text = "0.00";
             calculateGrandTotal();
         }
 
@@ -3490,6 +3530,7 @@ namespace CIS.Modules
             cboGenderInv.Enabled = true;
             multitxtAddressInv.Enabled = true;
             lblGrandTotalInv.Text = "0.00";
+            lblCorporateName.Text = string.Empty;
             lblBillDateInv.Text = DateTime.Now.ToString("dd/MM/yyyy hh:mm tt");
         }
 
@@ -3570,8 +3611,21 @@ namespace CIS.Modules
 
             lblPharmacyTotalAmt.Text = Math.Round(Common.Common.cis_pharmacy_info.phaTotalSum).ToString("0.00"); //Display Total Sum
             lblTotalFreeCare.Text = Math.Round(Common.Common.cis_pharmacy_info.phaFreeCareTotal).ToString("0.00"); //Display Total Free care
-            txtAmountPaidPha.Text = (Math.Round(Common.Common.cis_pharmacy_info.phaTotalSum) - Math.Round(Common.Common.cis_pharmacy_info.phaFreeCareTotal)).ToString("0.00"); //Display Due
-            lblDuePha.Text = "0.00";
+
+            if (!string.IsNullOrEmpty(lblCorporateName.Text.ToString()))//By default corporate should be in due
+            {
+                txtAmountPaidPha.Text = "0.00";
+                lblDuePha.Text = (Math.Round(Common.Common.cis_pharmacy_info.phaTotalSum) - Math.Round(Common.Common.cis_pharmacy_info.phaFreeCareTotal)).ToString("0.00"); //Display Due
+           
+            }
+            else
+            {
+                txtAmountPaidPha.Text = (Math.Round(Common.Common.cis_pharmacy_info.phaTotalSum) - Math.Round(Common.Common.cis_pharmacy_info.phaFreeCareTotal)).ToString("0.00"); //Display Due
+                lblDuePha.Text = "0.00";
+            }
+
+            //txtAmountPaidPha.Text = (Math.Round(Common.Common.cis_pharmacy_info.phaTotalSum) - Math.Round(Common.Common.cis_pharmacy_info.phaFreeCareTotal)).ToString("0.00"); //Display Due
+            //lblDuePha.Text = "0.00";
             txtDiscountPha.Text = "0.00";
             calculateGrandTotal();
         }
