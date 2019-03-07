@@ -133,9 +133,9 @@ namespace CIS.Modules
                 frmRegRececipt.ShowDialog();
             }
 
-            if (tscmbRegistrationType.ComboBox.SelectedIndex == 0 && !(string.IsNullOrEmpty(txtPatientId.Text)))
+            if (tscmbRegistrationType.ComboBox.SelectedIndex == 0 && !(string.IsNullOrEmpty(lblVisitNo.Text)))
             {
-                CIS.BillTemplates.frmPrintReceipt frmRegSlip = new BillTemplates.frmPrintReceipt("RegistrationSlip", Common.Common.billNo, txtPatientId.Text);
+                CIS.BillTemplates.frmPrintReceipt frmRegSlip = new BillTemplates.frmPrintReceipt("RegistrationSlip", Common.Common.billNo, lblVisitNo.Text);
                 frmRegSlip.ShowDialog();
             }
 

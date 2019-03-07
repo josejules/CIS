@@ -25,6 +25,7 @@ namespace CIS.BillTemplates
         DataTable dtSource = null;
         ComArugments objArg = new ComArugments();
         private Font verdana10Font;
+        private static string PrintSlip = string.Empty;
         #endregion
 
 
@@ -46,6 +47,7 @@ namespace CIS.BillTemplates
         public frmPrintReceipt(string printSlip, string billNumber, string patientId)
         {
             InitializeComponent();
+            PrintSlip = printSlip;
             switch (printSlip)
             {
                 case "RegistrationSlip":
@@ -330,7 +332,7 @@ namespace CIS.BillTemplates
                             RowColAlign(dt.Rows[0]["bill_number"].ToString(), 17, false));
                         ReceiptLine = ReceiptLine.Replace("<INVBILLDATE>",
                             RowColAlign(dt.Rows[0]["bill_date"].ToString(), 19, false));
-                        ReceiptLine = ReceiptLine.Replace("<PATIENTNAME>",  RowColAlign(dt.Rows[0]["patient_name"].ToString(), 25, false));
+                        ReceiptLine = ReceiptLine.Replace("<PATIENTNAME>", RowColAlign(dt.Rows[0]["patient_name"].ToString(), 25, false));
                         ReceiptLine = ReceiptLine.Replace("<AGE>", dt.Rows[0]["age"].ToString());
                         ReceiptLine = ReceiptLine.Replace("<GENDER>", dt.Rows[0]["gender"].ToString());
                         ReceiptLine = ReceiptLine.Replace("<DOCTORNAME>", dt.Rows[0]["doctor_name"].ToString());
@@ -460,7 +462,7 @@ namespace CIS.BillTemplates
                             ReceiptLine = ReceiptLine.Replace("<TOTAL>", RowColAlign(dt.Rows[0]["bill_amount"].ToString(), 10, true));
                         if (ReceiptLine.Contains("<PHADISCOUNT>"))
                             ReceiptLine = ReceiptLine.Replace("<PHADISCOUNT>", RowColAlign(dt.Rows[0]["discount"].ToString(), 10, true));
-                        
+
                         /*if (ReceiptLine.Contains("<EMPTY>"))
                         {
                             ReceiptLine = ReceiptLine.Replace("<EMPTY>", "\n");
@@ -486,7 +488,7 @@ namespace CIS.BillTemplates
                         if (ReceiptLine.Contains("RPT_DYN"))
                         {
                             if (dtR.Rows.Count == 0)
-                                ReceiptLine = ReceiptLine.Remove(0); 
+                                ReceiptLine = ReceiptLine.Remove(0);
                             else
                                 ReceiptLine = ReceiptLine.Replace("<RPT_DYN>", "");
                         }
@@ -555,9 +557,9 @@ namespace CIS.BillTemplates
                         ReceiptLine = ReceiptLine.Replace("<GENBILLNO>",
                             RowColAlign(dt.Rows[0]["bill_number"].ToString(), 10, false));
                         ReceiptLine = ReceiptLine.Replace("<GENBILLDATE>",
-                            RowColAlign(dt.Rows[0]["bill_date"].ToString(), 17,                                                                                                                                 false));
+                            RowColAlign(dt.Rows[0]["bill_date"].ToString(), 17, false));
                         ReceiptLine = ReceiptLine.Replace("<PATIENTNAME>", dt.Rows[0]["patient_name"].ToString());
-                        
+
                         if (ReceiptLine.Contains("<TITLE>"))
                         {
                             ReceiptLine = ReceiptLine.Replace("<TITLE>", "<BLD> Corpus Fund </BLD>");
@@ -1398,7 +1400,11 @@ namespace CIS.BillTemplates
             //Call ShowDialog
             if (printDlg.ShowDialog() == DialogResult.OK)
             {
-                verdana10Font = new Font("Courier New", 10);
+                if (PrintSlip == "RegistrationSlip")
+                    verdana10Font = new Font("Verdana", 10, FontStyle.Bold);
+                else
+                    verdana10Font = new Font("Courier New", 10);
+                //verdana10Font = new Font("Courier New", 10);
                 printDoc.PrintPage += new PrintPageEventHandler(pd_PrintPage);
                 printDoc.Print();
             }
@@ -1409,7 +1415,11 @@ namespace CIS.BillTemplates
         {
             //Get the Graphics object
             Graphics g = ev.Graphics;
-            Font printFont = new Font("Courier New", 10, FontStyle.Bold);
+            Font printFont;
+            if (PrintSlip == "RegistrationSlip")
+                printFont = new Font("Verdana", 10, FontStyle.Bold);
+            else
+                printFont = new Font("Courier New", 10);
             float linesPerPage = 0;
             float yPos = 0;
             int count = 0;

@@ -1,4 +1,4 @@
-Patient Id  : <PATIENTID>    Guardian Name: <GUARDIANNAME>
+<BLD>Patient Id  : <PATIENTID></BLD>    Guardian Name: <GUARDIANNAME>
 Patient Name   : <PATIENTNAME>     Phone : <PHONENO>
 Address : <ADDRESS>   		Age   : <AGE>
 Gender : <GENDER>

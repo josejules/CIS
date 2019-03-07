@@ -91,7 +91,6 @@
             this.Name = "frmPrintReceipt";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Print Receipt";
-            this.Load += new System.EventHandler(this.frmPrintReceipt_Load);
             this.ResumeLayout(false);
 
         }
